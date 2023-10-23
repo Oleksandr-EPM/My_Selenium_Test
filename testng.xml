@@ -1,0 +1,9 @@
+<suite name="MyTestSuite">
+    <test name="EPAMTests">
+        <classes>
+            <class name="org.example.PageTitleTest" />
+            <class name="org.example.HeaderLogoTest" />
+            <class name="org.example.SearchTest" />
+        </classes>
+    </test>
+</suite>
